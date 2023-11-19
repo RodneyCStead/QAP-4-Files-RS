@@ -30,6 +30,8 @@ Here's what the command will look like:
 
 # How to operate the programs
 --> Project 1  - QAP 4 One Stop Insurance <--
+
+Steps;
 - Enter cusomers first name
 - Enter customers last name
 - Enter customers street number
@@ -43,15 +45,47 @@ Here's what the command will look like:
 - Enter the customers choice of glass coverage, "Y" for yes or "N" for no
 - Enter the customers choice of if they are using a loan car or not, "Y" for yes or "N" for no
 - Enter the customers payment method as follows -> Full, Monthly, or Down Pay
-* If the customer choose Down Pay, it will prompt;
+--> If the customer choose Down Pay, it will prompt; <--
 - Enter the Down Pay amount
-* This section is for previous claims, enter up to 3 claims. These claims will appear at the end of the invoice *
+--> This section is for previous claims, enter up to 3 claims. These claims will appear at the end of the invoice <--
 - Enter claim date in the format YYYY-MM-DD, press 'Enter'key on pc or the 'Return key' on mac to continue with the program
 - Enter claim amount
-* If the 'Enter' or 'Return' key was pressed for claim date input, next it will prompt;
+--> If the 'Enter' or 'Return' key was pressed for claim date input, next it will prompt; <--
 - Enter if you wish to process another customer "Y" for yes or "N" for no
-* If Yes is selected, the program will loop the program around and ask for all the inputs again.
-* If No is selected, the program will print out an invoice
+--> If Yes is selected, the program will loop the program around and ask for all the inputs again. <--
+--> If No is selected, the program will print out an invoice. <--
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--> Project 2 - QAP 4 Bonus graph <--
+
+Steps;
+--> The program will prompt you to enter the sales from January - December. The sales amount can't be less than zero <--
+- Enter sales for the month of; January.
+- Enter sales for the month of; February.
+- Enter sales for the month of; March.
+- Enter sales for the month of; April.
+- Enter sales for the month of; May.
+- Enter sales for the month of; June.
+- Enter sales for the month of; July.
+- Enter sales for the month of; August.
+- Enter sales for the month of; September.
+- Enter sales for the month of; October.
+- Enter sales for the month of; November.
+- Enter sales for the month of; December.
+--> The program will proceed to chart out a graph with X label "Months" and a Y label "Sales" and a title of "Total Sales per Month". Each Sale value will be visable on the graph by a green dot. <--
+
+# Help
+--> Any advice is welcomed !!!
+
+# Version history
+--> See commit changes <--
+
+# Authors
+--> Rodney Stead <--
+
+# Licenses
+--> None <--
+
+
 
 
 
