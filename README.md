@@ -1,4 +1,4 @@
-# Project Title
+# QAP - 4
 In the QAP 4 file you will find two projects I have done along with a made library labeled FormatValues.py.
 
 --> Project 1 - QAP 4 One Stop Insurance <--
@@ -21,7 +21,7 @@ To clone This GitHub repository to your local pc, you can use Git from the comma
 2. In the dropdown that appears, click the 'copy to clipboard' button next to the repository's URL to copy it.
 3. Open a terminal on your local machine.
 4. Navigate to the directory where you want to clone the repository.
-5. Type `git clone` followed by the URL of the repository you copied earlier, and press Enter.
+5. Type git clone followed by the URL of the repository you copied earlier, and press Enter.
 
 Here's what the command will look like:
 
@@ -30,8 +30,23 @@ Here's what the command will look like:
 
 # How to operate the programs
 --> Project 1  - QAP 4 One Stop Insurance <--
-
-
+- Enter cusomers first name
+- Enter customers last name
+- Enter customers street number
+- Enter cusomers street name
+- Enter cusomers city
+- Enter cusomers province by 2 charcters, "NL" for Newfoundland & Labrador
+- Enter cusomers postal code in the format X9X9X9
+- Enter cusomers phone number in the format 1112223333 (no spaces or dashes)
+- Enter the number of cars being insured by the client, must be 100 or less
+- Enter the customers choice of extra liability, "Y" for yes or "N" for no
+- Enter the customers choice of glass coverage, "Y" for yes or "N" for no
+- Enter the customers choice of if they are using a loan car or not, "Y" for yes or "N" for no
+- Enter the customers payment method as follows -> Full, Monthly, or Down Pay
+    - If the customer choose Down Pay,
+    - Enter the Down Pay amount
+* This section is for previous claims, enter up to 3 claims. These claims will appear at the end of the invoice
+- Enter claim date in the format YYYY-MM-DD, press 'Enter' or the 'Return key'
 
 
 
